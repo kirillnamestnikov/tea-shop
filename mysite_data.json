@@ -1,0 +1,1105 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-12-07T12:35:28.827Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Green Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-12-07T12:41:19.183Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Matcha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-01-01T23:01:07.841Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "White Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-01-01T23:02:38.991Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Bai Hao Yin Zhen",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-01-01T23:04:29.944Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Bai Mu Dan",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-01-01T23:04:48.915Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Bai Mu Dan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-01-01T23:06:47.771Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Longjing",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-01-01T23:07:01.719Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Longjing",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-01-01T23:07:51.252Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Yellow Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-01-01T23:09:31.263Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Jun Shan Yin Zhen",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-01-01T23:11:08.683Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Huoshan Huang Ya",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-01-01T23:11:34.649Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Oolong Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-01-01T23:13:05.927Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Da Hong Pao",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-01-01T23:16:56.159Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Dong Ding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-01-01T23:17:12.176Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Black Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-01-01T23:18:35.597Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Dian Hong",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-01-01T23:20:33.216Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Assam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-01-01T23:20:59.248Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Assam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-01-01T23:21:20.757Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Flavored and Blended Teas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-01-01T23:22:48.749Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Jasmine Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-01-01T23:24:38.281Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Lapsang Souchong",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-01-02T20:49:37.329Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Order 2",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 7,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 7,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 7,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 7,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 8,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 8,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 8,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 8,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add order",
+    "content_type": 9,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change order",
+    "content_type": 9,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete order",
+    "content_type": 9,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view order",
+    "content_type": 9,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add order item",
+    "content_type": 10,
+    "codename": "add_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change order item",
+    "content_type": 10,
+    "codename": "change_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete order item",
+    "content_type": 10,
+    "codename": "delete_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view order item",
+    "content_type": 10,
+    "codename": "view_orderitem"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$4ebxxSraO2jtEyGQqGSUit$h4JjBe2w4okotTSkY87oG4CDd1c5XgxAajGo7pN0Yeg=",
+    "last_login": "2026-01-01T23:00:44.829Z",
+    "is_superuser": true,
+    "username": "wizyx",
+    "first_name": "",
+    "last_name": "",
+    "email": "kir.namestnikov@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-12-07T12:33:36.892Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "shop",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "shop",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "orders",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "orders",
+    "model": "orderitem"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "743sdxmwelhf9fm9kyaiswf0rjshhfpc",
+  "fields": {
+    "session_data": ".eJxVjEsOwiAUAO_C2pBS_i7d9wzk8XhI1UBS2pXx7oakC93OTObNAhx7CUenLayJXZlgl18WAZ9Uh0gPqPfGsdV9WyMfCT9t50tL9Lqd7d-gQC9ji5m8JQOoPFo1CYeoU5qd1ToBGQPa-Sy8zAqiICHJCieNnqSZNbjMPl_xCze2:1vSDxx:D1sFGn1qlxIA5k8Xdw1iYK36zpk9ezgamzdQCxLXwug",
+    "expire_date": "2025-12-21T12:34:17.429Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ux0outrlh67tfjm2lkqu1resavumxnqx",
+  "fields": {
+    "session_data": ".eJxVjMsKgzAQAP9lzxKMMS-PvfsNYd1sGtuiEPUk_nsJeGivM8OcEPDYczg2LmGOMICE5pdNSG9eqogvXJ6roHXZyzyJmojbbmJcI38ed_s3yLjluqXE3rJB6j3ZvpWOSMfYOat1RDYGtfNJepV6nCRLxVY6ZXSrTKfRJWiAsOwwnNf1BS0AOwI:1vc1UD:_yLHmCQQG1tS3yCnSbq7yjhZiPP8YPXkthYy6SePo6Y",
+    "expire_date": "2026-01-17T13:16:05.246Z"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 1,
+  "fields": {
+    "name": "Green Tea",
+    "slug": "green-tea"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 2,
+  "fields": {
+    "name": "White Tea",
+    "slug": "white-tea"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 3,
+  "fields": {
+    "name": "Yellow Tea",
+    "slug": "yellow-tea"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 4,
+  "fields": {
+    "name": "Oolong Tea",
+    "slug": "oolong-tea"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 5,
+  "fields": {
+    "name": "Black Tea",
+    "slug": "black-tea"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 6,
+  "fields": {
+    "name": "Flavored and Blended Teas",
+    "slug": "flavored-and-blended-teas"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "Matcha",
+    "slug": "matcha",
+    "image": "products/2025/12/07/photo_2025-12-07_15-39-04.jpg",
+    "description": "Matcha is a finely ground, vibrant green tea powder from Japan, made from shade-grown Camellia sinensis leaves, providing a concentrated source of antioxidants and caffeine for energy without the typical jitters. Unlike steeped tea, you consume the entire leaf, giving it a rich, umami flavor and potent benefits, traditionally prepared by whisking with hot water for a frothy drink, or used in lattes, smoothies, and baked goods.",
+    "price": "499.00",
+    "available": true,
+    "created": "2025-12-07T12:41:19.182Z",
+    "updated": "2025-12-07T12:41:19.182Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 2,
+  "fields": {
+    "category": 2,
+    "name": "Bai Hao Yin Zhen",
+    "slug": "bai-hao-yin-zhen",
+    "image": "products/2026/01/01/photo_2026-01-02_01-59-28.jpg",
+    "description": "An elite tea made only from unopened buds covered in white down. The flavor is floral, honey-like, and very subtle.",
+    "price": "699.00",
+    "available": true,
+    "created": "2026-01-01T23:02:38.990Z",
+    "updated": "2026-01-01T23:02:38.990Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 3,
+  "fields": {
+    "category": 2,
+    "name": "Bai Mu Dan",
+    "slug": "bai-mu-dan",
+    "image": "products/2026/01/01/photo_2026-01-02_02-03-34.jpg",
+    "description": "Made from a bud and the first two leaves. The flavor is slightly bolder than Silver Needle, with fruity and fresh notes.",
+    "price": "399.00",
+    "available": true,
+    "created": "2026-01-01T23:04:29.943Z",
+    "updated": "2026-01-01T23:04:48.914Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 4,
+  "fields": {
+    "category": 1,
+    "name": "Longjing",
+    "slug": "longjing",
+    "image": "products/2026/01/01/photo_2026-01-02_02-05-52.jpg",
+    "description": "Famous flat-leaf Chinese tea. It has a gentle, sweet, and toasty flavor with nutty and chestnut notes.",
+    "price": "899.00",
+    "available": true,
+    "created": "2026-01-01T23:06:47.770Z",
+    "updated": "2026-01-01T23:07:01.718Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 5,
+  "fields": {
+    "category": 3,
+    "name": "Jun Shan Yin Zhen",
+    "slug": "jun-shan-yin-zhen",
+    "image": "products/2026/01/01/photo_2026-01-02_02-08-40.jpg",
+    "description": "An elite yellow tea made from buds. The taste is smoother than green tea, with creamy and mellow honey notes.",
+    "price": "1299.00",
+    "available": true,
+    "created": "2026-01-01T23:09:31.262Z",
+    "updated": "2026-01-01T23:09:31.262Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 6,
+  "fields": {
+    "category": 3,
+    "name": "Huoshan Huang Ya",
+    "slug": "huoshan-huang-ya",
+    "image": "products/2026/01/01/photo_2026-01-02_02-10-24.jpg",
+    "description": "Has a characteristic spicy aroma and a soft, velvety flavor.",
+    "price": "599.00",
+    "available": true,
+    "created": "2026-01-01T23:11:08.683Z",
+    "updated": "2026-01-01T23:11:08.683Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 7,
+  "fields": {
+    "category": 4,
+    "name": "Da Hong Pao",
+    "slug": "da-hong-pao",
+    "image": "products/2026/01/01/photo_2026-01-02_02-12-21.jpg",
+    "description": "A famous, highly oxidized \"rock tea\" from the Wuyi Mountains. Deep, roasted flavor with notes of mineral, dark chocolate, and stone fruit.",
+    "price": "699.00",
+    "available": true,
+    "created": "2026-01-01T23:13:05.927Z",
+    "updated": "2026-01-01T23:13:05.927Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 8,
+  "fields": {
+    "category": 4,
+    "name": "Dong Ding",
+    "slug": "dong-ding",
+    "image": "products/2026/01/01/photo_2026-01-02_02-16-07.jpg",
+    "description": "A Taiwanese oolong of medium oxidation. A balanced, floral aroma with peachy and lilac notes.",
+    "price": "799.00",
+    "available": true,
+    "created": "2026-01-01T23:16:56.158Z",
+    "updated": "2026-01-01T23:16:56.158Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 9,
+  "fields": {
+    "category": 5,
+    "name": "Dian Hong",
+    "slug": "dian-hong",
+    "image": "products/2026/01/01/photo_2026-01-02_02-17-54.jpg",
+    "description": "From Yunnan province, often with golden tips. Rich, malty, and full-bodied, with honey or chocolate notes.",
+    "price": "449.00",
+    "available": true,
+    "created": "2026-01-01T23:18:35.596Z",
+    "updated": "2026-01-01T23:18:35.596Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 10,
+  "fields": {
+    "category": 5,
+    "name": "Assam",
+    "slug": "assam",
+    "image": "products/2026/01/01/photo_2026-01-02_02-19-48.jpg",
+    "description": "A robust Indian tea with bold, malty, and brisk flavors. The base of many breakfast blends.",
+    "price": "349.00",
+    "available": true,
+    "created": "2026-01-01T23:20:33.216Z",
+    "updated": "2026-01-01T23:20:59.241Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 11,
+  "fields": {
+    "category": 6,
+    "name": "Jasmine Tea",
+    "slug": "jasmine-tea",
+    "image": "products/2026/01/01/photo_2026-01-02_02-22-18.jpg",
+    "description": "A classic where tea leaves are layered multiple times with fresh jasmine blossoms.",
+    "price": "249.00",
+    "available": true,
+    "created": "2026-01-01T23:22:48.749Z",
+    "updated": "2026-01-01T23:22:48.749Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 12,
+  "fields": {
+    "category": 6,
+    "name": "Lapsang Souchong",
+    "slug": "lapsang-souchong",
+    "image": "products/2026/01/01/photo_2026-01-02_02-23-51.jpg",
+    "description": "A Chinese black tea dried over pinewood fires, giving it a distinctive smoky aroma and flavor.",
+    "price": "1499.00",
+    "available": true,
+    "created": "2026-01-01T23:24:38.279Z",
+    "updated": "2026-01-01T23:24:38.279Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 1,
+  "fields": {
+    "first_name": "Kirill",
+    "last_name": "Namestnikov",
+    "email": "kir.namestnikov@gmail.com",
+    "address": "1 Peter street",
+    "postal_code": "426666",
+    "city": "Saint Petersburg",
+    "created": "2026-01-02T20:48:09.034Z",
+    "updated": "2026-01-02T20:48:09.034Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 3,
+  "fields": {
+    "first_name": "Max",
+    "last_name": "Dubtsov",
+    "email": "maximdub@yandex.ru",
+    "address": "1 Max street",
+    "postal_code": "666111",
+    "city": "Moscow",
+    "created": "2026-01-02T20:50:22.398Z",
+    "updated": "2026-01-02T20:50:22.398Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 4,
+  "fields": {
+    "first_name": "Kirill",
+    "last_name": "Namestnikov",
+    "email": "kir.namestnikov@gmail.com",
+    "address": "1 Peter street",
+    "postal_code": "666111",
+    "city": "Saint Petersburg",
+    "created": "2026-01-02T21:41:02.437Z",
+    "updated": "2026-01-02T21:41:02.437Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 5,
+  "fields": {
+    "first_name": "Kirill",
+    "last_name": "Namestnikov",
+    "email": "kir.namestnikov@gmail.com",
+    "address": "1 Peter street",
+    "postal_code": "666111",
+    "city": "Saint Petersburg",
+    "created": "2026-01-02T21:44:04.164Z",
+    "updated": "2026-01-02T21:44:04.164Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 6,
+  "fields": {
+    "first_name": "Kirill",
+    "last_name": "Namestnikov",
+    "email": "kir.namestnikov@gmail.com",
+    "address": "1 Peter street",
+    "postal_code": "426666",
+    "city": "Saint Petersburg",
+    "created": "2026-01-03T13:15:44.461Z",
+    "updated": "2026-01-03T13:15:44.461Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 1,
+  "fields": {
+    "order": 1,
+    "product": 10,
+    "price": "349.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 2,
+  "fields": {
+    "order": 3,
+    "product": 2,
+    "price": "699.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 3,
+  "fields": {
+    "order": 4,
+    "product": 10,
+    "price": "349.00",
+    "quantity": 4
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 4,
+  "fields": {
+    "order": 6,
+    "product": 10,
+    "price": "349.00",
+    "quantity": 1
+  }
+}
+]
