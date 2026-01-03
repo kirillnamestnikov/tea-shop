@@ -1,0 +1,56 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Coverage
+.coverage
+htmlcov/
+.coverage.*
+*.cover
+.hypothesis/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# PyTest
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Static files (если собираетесь коммитить статику, удалите эту строку)
+staticfiles/
