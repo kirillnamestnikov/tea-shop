@@ -25,6 +25,7 @@ services:
 
   web:
     build: .
+    working_dir: /code
     command: python manage.py runserver 0.0.0.0:8000
     volumes:
       - .:/code:Z
@@ -35,26 +36,29 @@ services:
       - rabbitmq
     environment:
       DJANGO_SETTINGS_MODULE: config.settings
+      PYTHONPATH: /code
 
   celery:
     build: .
+    working_dir: /code
     command: celery -A config worker -l info
-    volumes:
-      - .:/code:Z
     depends_on:
       - db
       - rabbitmq
     environment:
       DJANGO_SETTINGS_MODULE: config.settings
+      PYTHONPATH: /code
+
   test:
     build: .
+    working_dir: /code
     command: python manage.py test
-    volumes:
-      - .:/code:Z
     depends_on:
       - db
       - rabbitmq
     environment:
       DJANGO_SETTINGS_MODULE: config.settings
+      PYTHONPATH: /code
+
 volumes:
   postgres_data:
