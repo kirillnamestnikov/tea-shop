@@ -3,7 +3,7 @@
 
 ## Быстрый старт
 
-### Запуск через Docker (рекомендуется)
+### Запуск через Docker
 ```bash
 # 1. Собрать и запустить все сервисы
 docker-compose build --no-cache
@@ -15,7 +15,7 @@ docker-compose exec web python manage.py migrate
 # 3. Загрузить тестовые данные (категории, товары)
 docker-compose exec web python manage.py loaddata mysite_data.json
 
-# 4. Создать администратора
+# 4. Создать администратора (Чтобы перейти в админ панель, перейдите на http://0.0.0.0:8000/admin/ 
 docker-compose exec web python manage.py createsuperuser
 
 # 5. Запустить тесты
