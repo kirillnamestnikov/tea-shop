@@ -114,8 +114,7 @@ flowchart LR
 ```mermaid
 flowchart LR
     User[👤 User]
-
-    Web[🟦 Django Web(Views / Templates)]
+    Web[🟦 Django Web]
     Celery[🟩 Celery Worker]
     Broker[🟧 RabbitMQ]
     DB[(🟨 PostgreSQL)]
