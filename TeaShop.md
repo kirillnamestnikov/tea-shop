@@ -115,7 +115,7 @@ flowchart LR
 flowchart LR
     User[👤 User]
 
-    Web[🟦 Django Web<br/>(Views / Templates)]
+    Web[🟦 Django Web(Views / Templates)]
     Celery[🟩 Celery Worker]
     Broker[🟧 RabbitMQ]
     DB[(🟨 PostgreSQL)]
