@@ -46,6 +46,15 @@ services:
       - rabbitmq
     environment:
       DJANGO_SETTINGS_MODULE: config.settings
-
+  test:
+    build: .
+    command: python manage.py test
+    volumes:
+      - .:/code:Z
+    depends_on:
+      - db
+      - rabbitmq
+    environment:
+      DJANGO_SETTINGS_MODULE: config.settings
 volumes:
   postgres_data:
