@@ -17,3 +17,6 @@ docker-compose exec web python manage.py loaddata mysite_data.json
 
 # 4. Создать администратора
 docker-compose exec web python manage.py createsuperuser
+
+# 5. Запустить тесты
+docker-compose run --rm test
